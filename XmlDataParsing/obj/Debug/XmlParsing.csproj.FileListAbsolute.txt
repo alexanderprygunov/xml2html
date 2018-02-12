@@ -1,0 +1,11 @@
+C:\Users\alexander.prygunov\documents\visual studio 2017\Projects\XmlToHtmlConverter\XmlDataParsing\bin\Debug\XmlToHtmlConverter.XmlDataParsing.dll
+C:\Users\alexander.prygunov\documents\visual studio 2017\Projects\XmlToHtmlConverter\XmlDataParsing\bin\Debug\XmlToHtmlConverter.XmlDataParsing.pdb
+C:\Users\alexander.prygunov\documents\visual studio 2017\Projects\XmlToHtmlConverter\XmlDataParsing\bin\Debug\XmlToHtmlConverter.HtmlPageGenerator.dll
+C:\Users\alexander.prygunov\documents\visual studio 2017\Projects\XmlToHtmlConverter\XmlDataParsing\bin\Debug\RazorEngine.dll
+C:\Users\alexander.prygunov\documents\visual studio 2017\Projects\XmlToHtmlConverter\XmlDataParsing\bin\Debug\System.Web.Razor.dll
+C:\Users\alexander.prygunov\documents\visual studio 2017\Projects\XmlToHtmlConverter\XmlDataParsing\bin\Debug\XmlToHtmlConverter.HtmlPageGenerator.pdb
+C:\Users\alexander.prygunov\documents\visual studio 2017\Projects\XmlToHtmlConverter\XmlDataParsing\bin\Debug\RazorEngine.xml
+C:\Users\alexander.prygunov\documents\visual studio 2017\Projects\XmlToHtmlConverter\XmlDataParsing\bin\Debug\System.Web.Razor.xml
+C:\Users\alexander.prygunov\documents\visual studio 2017\Projects\XmlToHtmlConverter\XmlDataParsing\obj\Debug\XmlParsing.csprojResolveAssemblyReference.cache
+C:\Users\alexander.prygunov\documents\visual studio 2017\Projects\XmlToHtmlConverter\XmlDataParsing\obj\Debug\XmlToHtmlConverter.XmlDataParsing.dll
+C:\Users\alexander.prygunov\documents\visual studio 2017\Projects\XmlToHtmlConverter\XmlDataParsing\obj\Debug\XmlToHtmlConverter.XmlDataParsing.pdb

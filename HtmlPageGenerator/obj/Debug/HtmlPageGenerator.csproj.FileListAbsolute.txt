@@ -1,0 +1,1 @@
+c:\users\alexander.prygunov\documents\visual studio 2017\Projects\XmlToHtmlConverter\HtmlPageGenerator\obj\Debug\HtmlPageGenerator.csprojResolveAssemblyReference.cache

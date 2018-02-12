@@ -1,0 +1,14 @@
+c:\users\alexander.prygunov\documents\visual studio 2017\Projects\XmlToHtmlConverter\XmlToHtmlConverter\obj\Debug\Core.csprojResolveAssemblyReference.cache
+C:\Users\alexander.prygunov\documents\visual studio 2017\Projects\XmlToHtmlConverter\XmlToHtmlConverter\bin\Debug\XmlToHtmlConverter.Core.exe.config
+C:\Users\alexander.prygunov\documents\visual studio 2017\Projects\XmlToHtmlConverter\XmlToHtmlConverter\bin\Debug\XmlToHtmlConverter.Core.exe
+C:\Users\alexander.prygunov\documents\visual studio 2017\Projects\XmlToHtmlConverter\XmlToHtmlConverter\bin\Debug\XmlToHtmlConverter.Core.pdb
+C:\Users\alexander.prygunov\documents\visual studio 2017\Projects\XmlToHtmlConverter\XmlToHtmlConverter\bin\Debug\XmlToHtmlConverter.HtmlPageGenerator.dll
+C:\Users\alexander.prygunov\documents\visual studio 2017\Projects\XmlToHtmlConverter\XmlToHtmlConverter\bin\Debug\XmlToHtmlConverter.XmlDataParsing.dll
+C:\Users\alexander.prygunov\documents\visual studio 2017\Projects\XmlToHtmlConverter\XmlToHtmlConverter\bin\Debug\RazorEngine.dll
+C:\Users\alexander.prygunov\documents\visual studio 2017\Projects\XmlToHtmlConverter\XmlToHtmlConverter\bin\Debug\System.Web.Razor.dll
+C:\Users\alexander.prygunov\documents\visual studio 2017\Projects\XmlToHtmlConverter\XmlToHtmlConverter\bin\Debug\XmlToHtmlConverter.HtmlPageGenerator.pdb
+C:\Users\alexander.prygunov\documents\visual studio 2017\Projects\XmlToHtmlConverter\XmlToHtmlConverter\bin\Debug\XmlToHtmlConverter.XmlDataParsing.pdb
+C:\Users\alexander.prygunov\documents\visual studio 2017\Projects\XmlToHtmlConverter\XmlToHtmlConverter\bin\Debug\RazorEngine.xml
+C:\Users\alexander.prygunov\documents\visual studio 2017\Projects\XmlToHtmlConverter\XmlToHtmlConverter\bin\Debug\System.Web.Razor.xml
+C:\Users\alexander.prygunov\documents\visual studio 2017\Projects\XmlToHtmlConverter\XmlToHtmlConverter\obj\Debug\XmlToHtmlConverter.Core.exe
+C:\Users\alexander.prygunov\documents\visual studio 2017\Projects\XmlToHtmlConverter\XmlToHtmlConverter\obj\Debug\XmlToHtmlConverter.Core.pdb
